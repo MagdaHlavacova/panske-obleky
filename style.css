@@ -59,3 +59,7 @@ h1.site-title {
 h1.site-title span {
   margin: 0 2rem;
 }
+
+.colorselect {
+  color: red;
+}
